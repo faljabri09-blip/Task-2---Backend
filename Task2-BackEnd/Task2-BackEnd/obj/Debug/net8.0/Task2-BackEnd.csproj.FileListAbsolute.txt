@@ -1,0 +1,15 @@
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task2-BackEnd\Task2-BackEnd\bin\Debug\net8.0\Task2-BackEnd.exe
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task2-BackEnd\Task2-BackEnd\bin\Debug\net8.0\Task2-BackEnd.deps.json
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task2-BackEnd\Task2-BackEnd\bin\Debug\net8.0\Task2-BackEnd.runtimeconfig.json
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task2-BackEnd\Task2-BackEnd\bin\Debug\net8.0\Task2-BackEnd.dll
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task2-BackEnd\Task2-BackEnd\bin\Debug\net8.0\Task2-BackEnd.pdb
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task2-BackEnd\Task2-BackEnd\obj\Debug\net8.0\Task2-BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task2-BackEnd\Task2-BackEnd\obj\Debug\net8.0\Task2-BackEnd.AssemblyInfoInputs.cache
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task2-BackEnd\Task2-BackEnd\obj\Debug\net8.0\Task2-BackEnd.AssemblyInfo.cs
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task2-BackEnd\Task2-BackEnd\obj\Debug\net8.0\Task2-BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task2-BackEnd\Task2-BackEnd\obj\Debug\net8.0\Task2-BackEnd.sourcelink.json
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task2-BackEnd\Task2-BackEnd\obj\Debug\net8.0\Task2-BackEnd.dll
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task2-BackEnd\Task2-BackEnd\obj\Debug\net8.0\refint\Task2-BackEnd.dll
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task2-BackEnd\Task2-BackEnd\obj\Debug\net8.0\Task2-BackEnd.pdb
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task2-BackEnd\Task2-BackEnd\obj\Debug\net8.0\Task2-BackEnd.genruntimeconfig.cache
+C:\Users\Fatma ALjabri\Documents\Back-end\project-solution1\Task2-BackEnd\Task2-BackEnd\obj\Debug\net8.0\ref\Task2-BackEnd.dll
